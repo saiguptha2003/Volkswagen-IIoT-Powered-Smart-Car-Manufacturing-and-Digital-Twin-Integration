@@ -132,7 +132,7 @@ This project explores the integration of Industrial Internet of Things (IIoT) an
 
 
 ### Figma Link for proposed DigitalTwin
-https://www.figma.com/proto/IXcsMwofjCKl62bLecJXio/agm?node-id=223-818&node-type=frame&t=HX626W189966QBZs-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=203%3A3
+https://www.figma.com/design/IXcsMwofjCKl62bLecJXio/Volkswagen-IIoT-Powered-Smart-Car-Manufacturing-and-Digital-Twin-Integration?node-id=0-1&t=MWGTPHmJ3v4C3HUL-1
 ## Future Enhancements
 - Expand the machine learning models for more accurate predictive maintenance.
 - Integrate more sensors for detailed data collection.
