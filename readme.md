@@ -129,6 +129,10 @@ This project explores the integration of Industrial Internet of Things (IIoT) an
 ## Outputs
 ![Alt text](https://github.com/saiguptha2003/Volkswagen-IIoT-Powered-Smart-Car-Manufacturing-and-Digital-Twin-Integration/blob/main/outputs/digitaltwin.png)
 ![Alt text](https://github.com/saiguptha2003/Volkswagen-IIoT-Powered-Smart-Car-Manufacturing-and-Digital-Twin-Integration/blob/main/outputs/scadatool.png)
+
+
+### Figma Link for proposed DigitalTwin
+https://www.figma.com/proto/IXcsMwofjCKl62bLecJXio/agm?node-id=223-818&node-type=frame&t=HX626W189966QBZs-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=203%3A3
 ## Future Enhancements
 - Expand the machine learning models for more accurate predictive maintenance.
 - Integrate more sensors for detailed data collection.
