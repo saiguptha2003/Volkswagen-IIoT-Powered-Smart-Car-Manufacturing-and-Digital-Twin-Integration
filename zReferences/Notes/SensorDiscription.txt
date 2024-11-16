@@ -1,0 +1,60 @@
+1. Proximity Sensors
+Unit: Distance (millimeters, mm)
+Example: Detecting object presence at a distance of 10 mm
+Type: Inductive or Capacitive
+Common Range: 0.5 mm to 50 mm
+
+2. Laser Distance Sensors
+Unit: Distance (millimeters, mm)
+Example: Measuring part alignment at a distance of 2 mm accuracy
+Common Range: 1 mm to 500 mm
+
+3. Pressure Sensors
+Unit: Pressure (bar or psi)
+Example: Monitoring hydraulic pressure at 5 bar
+Common Range: 0 to 250 bar (or 0 to 3,625 psi)
+
+4. Temperature Sensors
+Unit: Temperature (Celsius, °C)
+Example: Welding machine operating at 300°C
+Common Range: -50°C to 1,200°C (depending on the process)
+
+5. Load Cells (Force Sensors)
+Unit: Force (Newtons, N or Kilograms, kg)
+Example: Measuring force during pressing at 5000 N (or 500 kg)
+Common Range: 1 N to 100,000 N
+
+6. Torque Sensors
+Unit: Torque (Newton-meter, Nm)
+Example: Tightening bolts with 120 Nm of torque
+Common Range: 1 Nm to 1000 Nm
+
+7. Vibration Sensors (Accelerometers)
+Unit: Vibration (g-force, g)
+Example: Detecting machine vibrations at 3 g
+Common Range: 0 to 10 g
+
+8. Gas Sensors (Oxygen, CO2, NOx)
+Unit: Gas concentration (parts per million, ppm)
+Example: Detecting CO2 levels at 400 ppm during exhaust testing
+Common Range: 0 to 5000 ppm
+
+9. Ultrasonic Level Sensors
+Unit: Distance (millimeters, mm) or Fluid Level (liters, L)
+Example: Monitoring fluid levels at 500 mm or 20 L in tanks
+Common Range: 0.5 mm to 10,000 mm (or liters depending on capacity)
+
+10. Vision Sensors (Cameras)
+Unit: Resolution (pixels or mm per pixel)
+Example: Capturing defect detection images with 0.1 mm per pixel resolution
+Common Range: 640x480 pixels to 4K
+
+11. Displacement Sensors
+Unit: Distance (millimeters, mm)
+Example: Measuring part displacement with 0.1 mm accuracy
+Common Range: 0.1 mm to 200 mm
+
+12. Vacuum Sensors
+Unit: Vacuum Pressure (Pascal, Pa or bar)
+Example: Detecting vacuum levels at 0.1 bar (10 kPa)
+Common Range: 1 Pa to 100 kPa (0.001 bar to 1 bar)

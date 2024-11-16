@@ -1,0 +1,59 @@
+1. Proximity Sensors
+Unit: Distance (millimeters, mm)
+Example: Detecting the presence of a car part when it's within 5 mm of the sensor
+Common Range: 1 mm to 50 mm
+Purpose: To detect if parts are present on the belt and ensure they are correctly positioned before the next stage of assembly.
+
+2. Photoelectric Sensors (Light Sensors)
+Unit: Distance (millimeters, mm)
+Example: Detecting objects at 100 mm distance from the sensor using a light beam.
+Common Range: 10 mm to 500 mm
+Purpose: To detect the presence, size, or position of parts by sensing changes in light reflection or interruption.
+
+3. Weight Sensors (Load Cells)
+Unit: Force (Newtons, N) or Weight (Kilograms, kg)
+Example: Measuring part weight of 200 kg on the belt to ensure it matches the required specifications.
+Common Range: 1 kg to 500 kg (or more depending on the size of the part)
+Purpose: To monitor the load on the conveyor belt and ensure parts are within the desired weight limits for the process.
+
+4. Speed Sensors (Encoder)
+Unit: Speed (meters per second, m/s) or RPM (revolutions per minute)
+Example: Conveyor belt moving at a speed of 2 m/s
+Common Range: 0.1 m/s to 5 m/s
+Purpose: To measure and control the speed of the conveyor belt to ensure proper timing and synchronization of processes.
+
+5. Position Sensors (Encoders)
+Unit: Position (degrees, mm, or counts per revolution)
+Example: Monitoring the exact position of a car part on the belt at 10 mm intervals.
+Common Range: 1 mm to 1000 mm (depending on belt size)
+Purpose: To track the precise position of parts or the conveyor belt itself, enabling precise automation.
+
+6. Temperature Sensors
+Unit: Temperature (Celsius, °C)
+Example: Measuring the surface temperature of the conveyor belt at 60°C to ensure it’s within operational limits.
+Common Range: -40°C to 120°C
+Purpose: To monitor the belt's temperature and prevent overheating or damage to heat-sensitive components.
+
+7. Vibration Sensors
+Unit: Vibration (g-force, g)
+Example: Detecting abnormal vibrations of 2 g on the conveyor belt due to misalignment or overloading.
+Common Range: 0 to 5 g
+Purpose: To detect misalignment, overloading, or mechanical failure in the conveyor system.
+
+8. Optical Sensors
+Unit: Distance (millimeters, mm)
+Example: Monitoring part spacing with 50 mm gap detection on the belt.
+Common Range: 0.1 mm to 500 mm
+Purpose: To ensure that parts are spaced correctly for processing or further assembly.
+
+9. Inductive Sensors
+Unit: Distance (millimeters, mm)
+Example: Detecting metal parts at 20 mm distance on the belt.
+Common Range: 1 mm to 50 mm
+Purpose: To detect metal components on the conveyor belt without physical contact.
+
+10. Tilt/Inclination Sensors
+Unit: Angle (degrees, °)
+Example: Detecting conveyor belt incline at 15° for adjusting speed or torque.
+Common Range: 0° to 90°
+Purpose: To monitor the angle of the conveyor belt, ensuring proper handling of parts during incline/decline.
